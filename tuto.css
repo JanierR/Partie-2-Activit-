@@ -2,9 +2,9 @@ body {
   padding-top: 10px;
   }
   [class*="col-"], footer {
-    background-color: lightgreen;
-    border: 2px solid black;
-    border-radius: 6px;
-    line-height: 40px;
+    background-color: darkgreen;
+    border: 2px solid white;
+    border-radius: 10px;
+    line-height: 80px;
     text-align: center;
  }
